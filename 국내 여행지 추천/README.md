@@ -1,7 +1,7 @@
 ## 국내 여행지 추천 프로젝트
-Sentence Transformer를 활용한 사용자의 입력에 따른 여행지 추천 모델 구현 및 LangChain 및 Streamlit을 이용한 여행지 추천 챗봇 구현
+주제 : Sentence Transformer를 활용한 사용자의 입력에 따른 여행지 추천 모델 구현 및 LangChain 및 Streamlit을 이용한 여행지 추천 챗봇 구현
+기간 : 2024.09.12 ~ 2024.10.07
+인원 : 4명 (배누리, 박현아, 김호정, 전사영)
 
-
----
-## 개요
-기
+<br>
+## 프로젝트 소개
