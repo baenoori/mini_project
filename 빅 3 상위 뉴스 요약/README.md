@@ -21,7 +21,7 @@
 <br>
 
 ### 2. LangChain과 Streamlit을 이용한 뉴스 요약 챗봇 구현
-  <img width="791" alt="Image" src="https://github.com/user-attachments/assets/fdbb1074-a874-4256-81a9-d8bc91bf2173" />
+  ![Image](https://github.com/user-attachments/assets/e4a41342-bb5c-46cf-900f-0b9f9486a431)  
   
   - 웹크롤링을 통한 3개의 언론사 상위 네이버 뉴스 요약과의 비교를 위해 OpenAI의 GPT-4.0 모델을 사용하여 챗봇을 구현함
   - Streamlit을 활용하여 프롬프트를 수정 기능을 제공하였고 대화 내용을 저장하여 AI가 이전의 대화 내용을 참고하도록함
